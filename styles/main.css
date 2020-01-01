@@ -1,0 +1,47 @@
+main {
+    width: 100%;
+}
+
+#logo {
+    width: 40%;
+}
+
+#searchbar {
+    width: 40%;
+    line-height: 34px;
+    border-radius: 24px;
+    box-shadow: none;
+    padding: 0px 20px;
+    border: 1px solid #dfe1e5;
+}
+
+.center {
+    display: block;
+    margin: 10px auto;
+}
+
+button {
+    padding: 0px 16px;
+    line-height: 27px;
+    height: 36px;
+    box-shadow: none;
+    border: 1px solid #f2f2f2;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+}
+
+#buttonsdiv {
+    margin-top: 20px;
+    text-align: center;
+}
+div p {
+    text-align: center;
+}
+
+div p a {
+    text-decoration: none;
+    color: #1a0dab;
+    padding: 0 3px;
+    font-size: 13px;
+    line-height: 28px;
+}
