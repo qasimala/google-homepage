@@ -1,0 +1,1 @@
+Just completed the project for the odin project to get into the Microverse program. Let me know how I can improve! Thanks.
